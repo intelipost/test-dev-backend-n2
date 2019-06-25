@@ -10,10 +10,10 @@ Exemplo:
 
 | Nome  | Álbuns  |
 |---|---|
-| Sidney Magal  | Baila Magal, Coração Latino e Vibrações  |
-|  Wesley Safadão |  Ws Mais um Vez, Eu e a torcida do Brasil e Romance com safadeza |
-|  Serj tankian |  Harakiri, Black Blooms e The Rough Dog |
-|  Mike Shinoda |  The Rising Tied, Post Traumatic e Where'd You Go  |
+| Sidney Magal  | "Baila Magal", "Coração Latino" e Vibrações  |
+|  Wesley Safadão |  "Ws Mais um Vez", "Eu e a torcida do Brasil" e "Romance com safadeza" |
+|  Serj tankian |  "Harakiri", "Black Blooms" e "The Rough Dog" |
+|  Mike Shinoda |  "The Rising Tied", "Post Traumatic" e "Where'd You Go  |
 
 ## Tarefas
 
