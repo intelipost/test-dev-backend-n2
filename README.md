@@ -39,11 +39,11 @@ Exemplo:
         <br/>
       
  * Os dados tem a validade de 1 hora, ou seja durante esse período a resposta deve ser sempre a mesma.
- * Ao pesquisar um artista que não existem em nossa base, popular o banco de dados com as informações obtidas.
  * Ao pesquisar por um artista que não existe retornar um HTTP Status que achar mais adequado.
 
 ## O que esperamos ?
 
+ * Explicação da stack utilizada (justifique suas escolhas).
  * Explicação de como rodar localmente e também como seria possível realizar o deploy.
  * Testes
  * Legibilidade
