@@ -20,13 +20,13 @@ Exemplo:
  * Resolva o teste em um repositório privado do github. 
 	* Nos envie o link do mesmo e libere acesso aos usuários da Intelipost.
  * Codifique como se fosse um sistema para entrar em produção, que poderia sofrer alterações e adição de novas features.
- * Considere que a aplicação terá muitos acessos simultâneos.
+ * Considere que a aplicação terá muitos acessos simultâneos e que podem existir milhões de artistas
 
 ## Tarefas
  
  * Crie uma API pública em que seja possível listar, cadastrar, deletar e atualizar artistas (C.R.U.D).
  * Crie um endpoint público de rating dos artistas (0 - 5 pontos).
- * Crie um endpoint público de busca por nome do artista, permitindo ordenar por ordem alfabética (asc e desc) e também pelo tamanho do nome do artista (futuramente podemos ter outras formas de ordenação)
+ * Crie um endpoint público de busca por nome do artista, permitindo ordenar por ordem alfabética (asc e desc) e também pelo tamanho do nome do artista em número de letras (futuramente podemos ter outras formas de ordenação).
  * Ao retornar o(s) artista(s), devolva os álbuns relacionados a ele, o link de acesso de cada álbum (use a API do [spotify](https://developer.spotify.com/documentation/web-api/) com modo de autenticação Client Credentials Flow), e o rating médio de cada artista.
 
 ## Regras
