@@ -21,9 +21,12 @@ Exemplo:
 ## Instruções
 
  * Resolva o teste em um repositório privado do github. 
-	* Nos envie o link do mesmo e libere acesso aos usuários da Intelipost.
+	* Libere acesso de leitura do repositório para o usuário techtest@intelipost.com.br
+	* Envie um email para techtest@intelipost.com.br notificando a conclusão do teste 
  * Codifique como se fosse um sistema para entrar em produção, que poderia sofrer alterações e adição de novas features.
  * Considere que a aplicação terá muitos acessos simultâneos e que podem existir milhões de artistas
+ * Modele o relacionamento entre Artista e Álbum como sendo 1xN
+ * Utilize o projeto e as tecnologias fornecidas como base, porém adicione as dependências que considerar necessárias
 
 ## Tarefas
  
@@ -34,20 +37,21 @@ Exemplo:
 
 ## Regras
  
- * Os álbuns devem ser listados por ordem alfabética. No caso de existir um com dois primeiros nomes iguais mostrar apenas o menor.
+ * Os álbuns devem ser listados por ordem alfabética. No caso de existir um com as 2 primeiras palavras iguais mostrar apenas o menor.
  
    * Exemplo: <br/>
       * Lista de álbuns <br/>
         1) Post Traumatic EP <br/>
-        2) Post Traumatic (Deluxe Version) (Não exibir) <br/>
+        2) Post Traumatic (Deluxe Version) (**Não exibir**) <br/>
         <br/>
 
 ## O que esperamos ?
 
- * Explicação da stack utilizada (justifique suas escolhas)
  * Explicação de como rodar localmente e também como seria possível realizar o deploy.
  * Testes
  * Legibilidade
  * Escalabilidade 
  * Commits pequenos
  * Ver sua experiência codificando
+ * CLEAN CODE
+ * Keep it simple =] (gostamos de soluções simples e práticas)
