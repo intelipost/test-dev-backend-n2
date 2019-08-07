@@ -10,10 +10,13 @@ Exemplo:
 
 | Nome  | Álbuns  |
 |---|---|
-| Sidney Magal  | "Baila Magal", "Coração Latino e Vibrações" |
-| Wesley Safadão | "Ws Mais um Vez", "Eu e a torcida do Brasil" e "Romance com safadeza" |
-| Serj tankian | "Harakiri", "Black Blooms" e "The Rough Dog" |
-| Mike Shinoda | "The Rising Tied", "Post Traumatic EP", "Post Traumatic (Deluxe Version)" e "Where'd You Go" |
+| Sidney Magal  | "Baila Magal", "Coração Latino" e "Vibrações"  |
+|  Wesley Safadão |  "Ws Mais um Vez", "Eu e a torcida do Brasil" e "Romance com safadeza" |
+|  Serj tankian |  "Harakiri", "Black Blooms" e "The Rough Dog" |
+|  Mike Shinoda |  "The Rising Tied", "Post Traumatic", "Post Traumatic EP" e "Where'd You Go  |
+|  Michel Teló |  "Bem Sertanejo", "Bem Sertanejo - O Show (Ao Vivo)", "Bem Sertanejo - (1ª Temporada) - EP"|
+|  Guns N' Roses |  "Use Your IIIlusion I", "Use Your IIIlusion II" e "Greatest Hits"|
+|  Linkin Park |  "Meteora", "Meteora (Bonus Edition)", "Hybrid Theory", "Hybrid Theory (Bonus Edition)" e  "Hybrid Theory Live Around The World"|
 
 ## Instruções
 
