@@ -30,7 +30,7 @@ Exemplo:
  * Crie uma API pública em que seja possível listar, cadastrar, deletar e atualizar artistas (C.R.U.D).
  * Crie um endpoint público de rating dos artistas (0 - 5 pontos).
  * Crie um endpoint público de busca por nome do artista, permitindo ordenar por ordem alfabética (asc e desc) e também pelo tamanho do nome do artista em número de letras (futuramente podemos ter outras formas de ordenação).
- * Ao retornar o(s) artista(s), devolva os álbuns relacionados a ele, o link de acesso de cada álbum (use a API do [spotify](https://developer.spotify.com/documentation/web-api/) com modo de autenticação Client Credentials Flow), e o rating médio de cada artista.
+ * Ao retornar o(s) artista(s), devolva os álbuns relacionados a ele, o link de acesso de cada álbum (use a API do [Spotify](https://developer.spotify.com/documentation/web-api/) com modo de autenticação Client Credentials Flow), e o rating médio de cada artista.
 
 ## Regras
  
