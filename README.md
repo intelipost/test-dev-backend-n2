@@ -27,6 +27,7 @@ Exemplo:
  * Considere que a aplicação terá muitos acessos simultâneos e que podem existir milhões de artistas
  * Modele o relacionamento entre Artista e Álbum como sendo 1xN
  * Utilize o projeto e as tecnologias fornecidas como base, porém adicione as dependências que considerar necessárias
+ * Utilize os exemplos como carga inicial do banco de dados.
 
 ## Tarefas
  
